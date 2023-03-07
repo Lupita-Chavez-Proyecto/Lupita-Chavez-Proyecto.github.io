@@ -3,41 +3,45 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Guadalupe Chávez Vázquez 
-    tagline: Técnico en Ofimática 
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Lupita Chávez
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+#    avatar: E120CF2C-8A37-4679-A9ED-4630DD50D247.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
 
     # Sidebar links
-    email: lupitachavez010205@gmail.com 
-    phone: 5584485386
-    timezone: Entre Semana 
-    citizenship:CIUDAD DE MEXICO 
-    website: lupita.webjeda.com #do not add http://
-    linkedin: _Lupita_Chávez 
-    xing: _Lupita_Chávez 
-    github: Lupita-Chavez-Proyecto
+    email: sarainavarro688@gmail.com
+    phone: 5534085236
+    timezone: Entre semanas
+    citizenship: Veracruz/ Coatzacoalcos
+    website: rubi.web.com #do not add http://
+    linkedin: _iamrubii
+    xing: _iamrubii
+    github: Rubi-Navarro-proyecto
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@lupita_chavez´
- 
+    twitter: '@rubi_navarro'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Dirección 
-      info: 
-        
-         
-       
-        - idiom: Procuraduria General De Justicia #224
-          level: Venustiano Carranza 
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
@@ -52,9 +56,9 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Acerca de
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Summarise your careers here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
