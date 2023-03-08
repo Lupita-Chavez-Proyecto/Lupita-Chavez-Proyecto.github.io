@@ -31,27 +31,27 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: ESTUDIOS
       info:
-        - idiom: English
-          level: Native
+        - idiom: Preparatoria
+          level:
 
-        - idiom: French
-          level: Professional
+        - idiom: Centro De Estudios Tecnologicos Industrial Y De Servicios No.32
+          level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Promedio 8.0
+          level: 
 
     interests:
-      title: Interests
+      title: Idiomas 
       info:
-        - item: Climbing
+        - item: Español
           link:
 
-        - item: Snowboarding
+        - item: Ingles 
           link:
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
