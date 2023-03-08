@@ -84,23 +84,23 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiencia 
+    title: Experiencia
     info:
-      - role: Word 
+      - role: WORD 
         time: 2021- 2023
-        company: Cetis No.32
+        company: CETIs N°32
         details: |
           Soy buena en word y haciendo presentaciones en power point 
             
-      - role: Power Point 
+      - role: POWER POINT
         time: 2021- 2023
-        company: Peraparatoria Cetis 32
+        company: Preparatoria
         details: 
          Se manejar power poin, se hacer diapositivas con diseño  
             
-      - role: Excel 
+      - role: EXCEL
         time: 2021- 2023
-        company: Preparatoria Cetis 32
+        company: CETIs N°32
         details: |
         Se manejar excel, se programar un trabajo como en hojas de cálculo y realizar gráficas 
            
