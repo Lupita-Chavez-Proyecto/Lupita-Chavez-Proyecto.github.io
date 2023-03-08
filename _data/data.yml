@@ -87,19 +87,19 @@ experiences:
     title: Experiencia 
     info:
       - role: Word 
-        time: 2021 - 2023
+        time: 2021- 2023
         company: Cetis No.32
         details: |
           Soy buena en word y haciendo presentaciones en power point 
             
       - role: Power Point 
-        time: 2021 - 2023
+        time: 2021- 2023
         company: Peraparatoria Cetis 32
         details: 
          Se manejar power poin, se hacer diapositivas con diseño  
             
       - role: Excel 
-        time: 2021 - 2023
+        time: 2021- 2023
         company: Preparatoria Cetis 32
         details: |
         Se manejar excel, se programar un trabajo como en hojas de cálculo y realizar gráficas 
